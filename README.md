@@ -1,6 +1,8 @@
 # RD-InstantAvailability-2.0
 
-Simple Python script to check if a torrent is **Instantly Available** (cached) in Real-Debrid. A substitute for the `/instantAvailability` Real-Debrid API endpoint since its removal. Enter your RD API token and the Magnet Link that you wish to check and it will output the result, i.e if the torrent is instantly available or not.
+Simple Python script to check if a torrent is **Instantly Available** (Cached) in Real-Debrid. A substitute for the `/instantAvailability` Real-Debrid API endpoint since its removal. 
+
+Enter your RD API token and the Magnet Link that you wish to check and it will output the result, i.e if the torrent is instantly available or not.
 
 Also used in [Mediarr](https://github.com/wjH-3/Mediarr), another personal project for Real-Debrid much larger in scale.
 

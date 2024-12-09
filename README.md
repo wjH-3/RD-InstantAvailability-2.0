@@ -17,10 +17,10 @@ Also used in [Mediarr](https://github.com/wjH-3/Mediarr), another personal proje
 ```
 python instant.py
 ```
-3. Enter your Real-Debrid API token, which can be found [here](https://real-debrid.com/apitoken).
+3. Enter your Real-Debrid API token, which can be found [here](https://real-debrid.com/apitoken)
 4. Enter/paste in your Magnet Link to check for `Instant Availability`
 
-*Note:* You can also hard-code your APi token into the script itself so that you don't have to enter it each time when running the script. To do so, in `main()`, change `api_token` into: 
+*Note:* You can also hard-code your API token into the script itself so that you don't have to enter it each time when running the script. To do so, in `main()`, change `api_token` into: 
 ```
 api_token = "YOUR_API_TOKEN_HERE"
 ```
